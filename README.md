@@ -140,10 +140,8 @@ qemu-system-i386 -kernel myos.bin
 ---
 
 ## 📸 7. Screenshots
-*(Attach screenshot images in your submission folder)*
-
 * **Screenshot 1:** QEMU booting successfully with Green text.
-* **Screenshot 2:** Demonstration of the Keyboard Driver handling user input.
+<img width="711" height="432" alt="Screenshot 2026-01-20 at 12 12 19 PM" src="https://github.com/user-attachments/assets/3ce8bbde-647d-49b1-87ad-d6fd3d76c419" />
 
 ---
 
